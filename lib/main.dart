@@ -206,7 +206,7 @@ class SettingsScreen extends StatelessWidget {
                   ),
                   const Divider(),
                   ListTile(
-                    leading: const Icon(Icons.south_east_rounded),
+                    leading: const Icon(Icons.volume_up_sharp),
                     title: const Text('Sound quality and effects'),
                     trailing: const Icon(Icons.keyboard_arrow_right),
                     onTap: () {},
